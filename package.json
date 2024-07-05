@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4",
+    "Router": "^2.1.0"
+  },
+  "name": "backend-authentication",
+  "version": "1.0.0",
+  "description": "\"using mongo make a auth with json token\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen Chasta",
+  "license": "ISC"
+}
